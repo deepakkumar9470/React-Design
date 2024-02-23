@@ -10,7 +10,7 @@ const Card = ({ item }) => {
   return (
     <div
       className="w-full bg-mainWhite md:flex 
-                    md:justify-between gap-4 md:gap-10 px-4 md:px-14 py-4 
+                    md:justify-between gap-4 md:gap-10 px-4 mb-4 md:mb-0 md:px-14 py-4 
                     rounded-xl relative"
     >
       <span
